@@ -5,6 +5,7 @@ numpy
 seaborn
 plotly
 flaml
+openpyxl
 matplotlib
 scikit-learn
 xgboost

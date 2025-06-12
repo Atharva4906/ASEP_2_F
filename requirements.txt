@@ -1,0 +1,9 @@
+scikit-learn
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+psutil
+fpdf

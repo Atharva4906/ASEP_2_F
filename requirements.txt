@@ -4,6 +4,7 @@ pandas
 numpy
 seaborn
 plotly
+flaml
 matplotlib
 scikit-learn
 xgboost
